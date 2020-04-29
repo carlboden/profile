@@ -21,7 +21,7 @@ body {
   color: rgba(150, 137, 123, 1.0);
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 50px;
 }
 
@@ -35,7 +35,7 @@ a:hover {
 }
 
 .container {
-  width: 700px;
+  width: 800px;
   margin: 0 auto;
 }
 
